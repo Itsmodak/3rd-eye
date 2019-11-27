@@ -23,11 +23,11 @@ The following things you have to know about <br />
 
 
 After creating your model, you can use mdk.py to detect your object using your model. the syntex of modak.py is <br />
-**python mdk.py --model_name=** **<** **path to your model**  **>** **--frozen_graph=** **<** **path to your frozen graph** **>** **--lables=** **<** **path to your labelmap** **>** **--video=** **<** **path to your video file** **>**
+**python3 mdk.py --model_name=** **<** **path to your model**  **>** **--frozen_graph=** **<** **path to your frozen graph** **>** **--lables=** **<** **path to your labelmap** **>** **--video=** **<** **path to your video file** **>**
 [![Watch the video](https://asciinema.org/a/283927.png)](https://asciinema.org/a/283927)
 
 
 Output video of my model(7000+ steps) in which i used my own datasets
-[![Watch the video](https://youtu.be/ljXKc8A_sf4/0.jpg)]( https://youtu.be/ljXKc8A_sf4 )
+[![Watch the video](http://img.youtube.com/vi/ljXKc8A_sf4/0.jpg)]( https://youtu.be/ljXKc8A_sf4 )
 
 
