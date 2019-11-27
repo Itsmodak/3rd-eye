@@ -22,7 +22,7 @@ The following things you have to know about <br />
 [modak.ipynb](modak.ipynb) is the easiest way to start.It is a step by step guide that shows how to make your own model using your own datasets.
 
 
-After creating your model, you can use mdk.py to detect your object using your model. the syntex of modak.py is <br />
+After creating your model, you can use mdk.py to detect your object using your model. The syntax of mdk.py is <br />
 **python3 mdk.py --model_name=** **<** **path to your model**  **>** **--frozen_graph=** **<** **path to your frozen graph** **>** **--lables=** **<** **path to your labelmap** **>** **--video=** **<** **path to your video file** **>**
 [![Watch the video](https://asciinema.org/a/283927.png)](https://asciinema.org/a/283927)
 
