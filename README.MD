@@ -28,6 +28,6 @@ After creating your model, you can use mdk.py to detect your object using your m
 
 
 Output video of my model(7000+ steps) in which i used my own datasets
-[![Watch the video]( https://youtu.be/ljXKc8A_sf4 )
+![Watch the video]( https://youtu.be/ljXKc8A_sf4 )
 
 
